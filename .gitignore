@@ -1,0 +1,9 @@
+node_modules/
+.idea
+.idea/dataSources.local.xml
+.idea/inspectionProfiles/
+.idea/workspace.xml
+dataBase/src/test/
+dataBase/target/
+web/src/test/
+web/target/
